@@ -14,42 +14,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes algorithms for epidemic modeling based on the SIR model using Cellular Automata.
+The repository includes an algorithm for epidemic modeling based on the SIR model using Cellular Automata.
 The project was implemented for the purposes of the Research & Design of Complex Electronic Systeems course
 of the 8th semester of DUTh.
-  
-This implementation uses:
-- two primes to calculate n    
-- extended GCD method to find the private key(d)    
-- Miller-Rabin for primality checking  
-- key size 2048 (but it can be easily adjusted for any key size)  
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To get started make sure you have installed all the prerequisites in your computer and then follow the instuctions in the installation section.
+To get started make sure you have downloaded the CA file containing the code files.
 
-### Prerequisites
-To compile this implementation of RSA you will need:
-- [cmake](https://cmake.org/download/)
-- [boost](https://www.boost.org/users/download/) library, which can also be extracted from the 7z included
-  - Make sure to include the path of the library in the CMakeLists
-- A compiler that supports std11 and threading
-  - (This project was tested with [mingw64](http://mingw-w64.org/doku.php) version 8)
-
-### Installation
-To run the example: 
-- Open the example folder and type:
-```
-mkdir build
-cd build
-cmake ..
-make
-```
-- Add a file named plain.txt with the message you want to encrypt before running the output file.
-
-To run the tests, follow the same procedure.
-
+### Running experiments
+To run you wn experiments using this implementation of epidemic modeling:
+- Run spreading.m file to simulate an epidemic spreading without vaccination
+  - Configure population and virus characteristics variables
+- Run vaccination.m file to simulate the effects of vacination
+  - Configure population, virus and vaccination characteristics variables
 
 <!-- CONTRIBUTING -->
 ## Contributing
