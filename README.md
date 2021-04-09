@@ -18,6 +18,8 @@ The repository includes an algorithm for epidemic modeling based on the SIR mode
 The project was implemented for the purposes of the Research & Design of Complex Electronic Systeems course
 of the 8th semester of DUTh.
 
+More about the SIR model: Measuring and Preventing COVID-19 Using the SIR Model and Machine Learning in Smart Health Care
+
 <!-- GETTING STARTED -->
 ## Getting Started
 To get started make sure you have downloaded the CA file containing the code files.
