@@ -14,7 +14,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The repository includes algorithms for epidemic modeling based on the well known SIR model using Cellular Automata.
+The repository includes algorithms for epidemic modeling based on the SIR model using Cellular Automata.
 The project was implemented for the purposes of the Research & Design of Complex Electronic Systeems course
 of the 8th semester of DUTh.
   
