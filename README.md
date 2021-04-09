@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" width="70" height="70">
-  </a>
+  <img src="https://github.com/DataMas/CA-epidemic-modeling/blob/main/images/file_icon.webp" alt="Logo" width="70" height="70">
   <h3 align="center">Epidemic modeling using Cellullar Automata</h3>
 </p>
 
