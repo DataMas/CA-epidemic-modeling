@@ -15,10 +15,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The repository includes an algorithm for epidemic modeling based on the SIR model using Cellular Automata.
-The project was implemented for the purposes of the Research & Design of Complex Electronic Systeems course
-of the 8th semester of DUTh.
+- More about the SIR model: https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model
+- More about Cellular Automata: https://plato.stanford.edu/entries/cellular-automata/
 
-More about the SIR model: Measuring and Preventing COVID-19 Using the SIR Model and Machine Learning in Smart Health Care
+The project was implemented for the purposes of the Research & Design of Complex Electronic Systeems course of the 8th semester of DUTh.
+- More about DUTh and the Research & Design of Complex Electronic Systeems course: https://www.ee.duth.gr/en/
 
 <!-- GETTING STARTED -->
 ## Getting Started
