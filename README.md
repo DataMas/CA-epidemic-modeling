@@ -32,7 +32,7 @@ To run you wn experiments using this implementation of epidemic modeling:
 - Run vaccination.m file to simulate the effects of vacination
   - Configure population, virus and vaccination characteristics variables
 
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING --->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be, learn, inspire, and create.  
